@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Chess
+comment1.params=
+comment1.target=Chess()
+comment10.params=
+comment10.target=void\ saveFile()
+comment2.params=loadStatus
+comment2.target=void\ init(boolean)
+comment3.params=
+comment3.target=Piece[]\ newPieces()
+comment4.params=num
+comment4.target=void\ selectPiece(int)
+comment5.params=
+comment5.target=void\ switchTORXOR()
+comment6.params=
+comment6.target=Piece[]\ getPieces()
+comment7.params=
+comment7.target=boolean\ getTurnBlue()
+comment8.params=
+comment8.target=boolean\ getGameOver()
+comment9.params=buttonNum
+comment9.target=java.util.ArrayList\ getValid(int)
+numComments=11

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BIZ
+comment1.params=pos\ isBlue
+comment1.target=BIZ(int,\ boolean)
+comment2.params=p
+comment2.target=void\ updateValid(Piece[])
+numComments=3

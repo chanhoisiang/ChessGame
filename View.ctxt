@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=View
+comment1.params=
+comment1.target=View()
+comment2.params=
+comment2.target=void\ viewing()
+comment3.params=turnBlue\ pieces\ gameOver
+comment3.target=void\ updateGrid(boolean,\ Piece[],\ boolean)
+comment4.params=
+comment4.target=boolean\ loadStatus()
+comment5.params=validMove
+comment5.target=void\ setValidMove(java.util.ArrayList)
+comment6.params=actionListener
+comment6.target=void\ setButtonListener(java.awt.event.ActionListener)
+comment7.params=windowAdapter
+comment7.target=void\ setWindowAdapter(java.awt.event.WindowAdapter)
+numComments=8

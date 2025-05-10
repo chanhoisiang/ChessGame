@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=File
+comment1.params=
+comment1.target=File()
+comment2.params=pieces\ turnBlue
+comment2.target=void\ saveFile(Piece[],\ boolean)
+comment3.params=
+comment3.target=void\ clearFile()
+comment4.params=
+comment4.target=boolean\ getLoadStatus()
+comment5.params=pieces
+comment5.target=boolean\ loadFile(Piece[])
+numComments=6
